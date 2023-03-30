@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
